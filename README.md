@@ -2,6 +2,14 @@
 <h3 align="center">I'm 14 Years Old. I'm From India</h3>
 <img align="right" alt="lol" width="200" src="https://i.pinimg.com/originals/ce/b6/4a/ceb64acefaabb2c710aed96d1fd36bfd.gif">
 
+
+
+
+<img src="https://media.discordapp.net/attachments/943784022247628801/943792473069748224/Comp_1_1.gif">
+
+
+![Discord Card](https://discord.c99.nl/widget/theme-1/803621276123267073.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejkumar126&label=Profile%20views&color=0e75b6&style=flat" alt="tejkumar126" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejkumar126" alt="tejkumar126" /></a> </p>
