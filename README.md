@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/zyorin_7" target="blank"><img src="https://img.shields.io/twitter/follow/zyorin_7?logo=twitter&style=for-the-badge" alt="zyorin_7" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud7 Development**
+- 🔭 I’m currently working on **Cloudy AI - Cloud7 Development**
 
 - 🌱 I’m currently learning **Many stuff**
 
