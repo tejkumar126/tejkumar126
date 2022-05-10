@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tej Kumar</h1>
 <h3 align="center">I'm 14 Years Old.</h3>
-<img align="right" alt="lol" width="200" src="https://tenor.com/view/coding-gif-24297652">
+
 
 ![Discord Card](https://discord.c99.nl/widget/theme-1/803621276123267073.png)
 
