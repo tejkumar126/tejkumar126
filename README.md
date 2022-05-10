@@ -1,8 +1,8 @@
 
-[![MasterHead](https://tenor.com/view/coding-gif-24297652)](https://tenor.com/view/coding-gif-24297652)
+
 <h1 align="center">Hi 👋, I'm Tej Kumar</h1>
 <h3 align="center">I'm 14 Years Old.</h3>
-<img align="right" alt="lol" width="200" src="https://i.pinimg.com/originals/ce/b6/4a/ceb64acefaabb2c710aed96d1fd36bfd.gif">
+<img align="right" alt="lol" width="200" src="https://tenor.com/view/coding-gif-24297652">
 
 ![Discord Card](https://discord.c99.nl/widget/theme-1/803621276123267073.png)
 
