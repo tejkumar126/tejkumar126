@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Many stuff**
 
-- 👨‍💻 All of my projects are available at [https://itztej.carrd.co/](https://itztej.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://zyorin.carrd.co/](https://itztej.carrd.co/)
 
 - 📫 How to reach me **ttk200716@gmail.com**
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zyorin_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyorin_7" height="30" width="40" /></a>
-<a href="https://instagram.com/itztej_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itztej_7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zyorin.near/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itztej_7" height="30" width="40" /></a>
 <a href="https://discord.com/users/803621276123267073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ItzTej#2926" height="30" width="40" /></a>
 </p>
 
