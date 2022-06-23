@@ -16,8 +16,6 @@
 
 - 🌱 I’m currently learning **Many stuff**
 
-- 👨‍💻 All of my projects are available at [https://zyorin.carrd.co/](https://itztej.carrd.co/)
-
 - 📫 How to reach me **ttk200716@gmail.com**
 
 - ⚡ Fun fact **I dont Know lol**
